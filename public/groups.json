@@ -575,6 +575,9 @@
         },
         {
           "path": "json/fn+cmd_to_eisu_and_kana.json"
+        },
+        {
+          "path": "json/parallels_right_cmd_to_insert.json"
         }
       ]
     },
